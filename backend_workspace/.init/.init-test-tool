@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/focuspulse-114423-8d66ce52/backend_workspace/backend"
+}
